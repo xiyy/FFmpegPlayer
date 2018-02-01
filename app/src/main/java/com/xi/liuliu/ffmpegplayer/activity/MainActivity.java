@@ -1,8 +1,10 @@
-package com.xi.liuliu.ffmpegplayer;
+package com.xi.liuliu.ffmpegplayer.activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
+
+import com.xi.liuliu.ffmpegplayer.R;
 
 public class MainActivity extends AppCompatActivity {
 
